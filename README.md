@@ -35,7 +35,7 @@ A compact, high-performance power regulation module designed in Altium Designer.
 │   ├── Altium_Project/           # .PrjPcb, schematic (.SchDoc), and PCB layout (.PcbDoc)
 │   ├── Outputs/                  # Generated Gerber files, NC Drill files, and BOM
 ├── 3D_Renders/                   # Board preview images (.png)
-└── README.md
-
-
+└── README.md 
+```
 ![PCB Layout](Screenshot%202026-08-04%20164806.png)
+
