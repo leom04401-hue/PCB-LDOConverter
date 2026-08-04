@@ -37,5 +37,7 @@ A compact, high-performance power regulation module designed in Altium Designer.
 ├── 3D_Renders/                   # Board preview images (.png)
 └── README.md 
 ```
+![PCB Layout 2](Screenshot%202026-08-04%20170339.png)
 ![PCB Layout](Screenshot%202026-08-04%20164806.png)
+![PCB Layout 1](Screenshot%202026-08-04%20170246.png)
 
